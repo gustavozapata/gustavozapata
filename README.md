@@ -30,7 +30,7 @@ I'm a full stack developer from Cali 🇨🇴, living in London 🇬🇧
 https://gustavozapata.me/
 
 <br/>
-<a href="https://www.linkedin.com/in/hemant-j-85518a195/">
+<a href="https://www.linkedin.com/in/gustavo-zapata/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://stackoverflow.com/users/6099890/gustavozapata">
