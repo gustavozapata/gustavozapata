@@ -3,7 +3,7 @@
 I'm a full stack developer from Cali 🇨🇴, living in London 🇬🇧
 
 ### Technologies
-#### Professional & Educational Experience
+##### Professional & Educational Experience
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
 [![PHP](https://img.shields.io/badge/-PHP-9cf?style=flat&logo=php&link=https://github.com/gustavozapata)](https://github.com/gustavozapata) 
@@ -16,12 +16,12 @@ I'm a full stack developer from Cali 🇨🇴, living in London 🇬🇧
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/gustavozapata)](https://github.com/gustavozapata) 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
 
-#### Personal Experience
+##### Personal Experience
 [![Swift](https://img.shields.io/badge/-Swift-black?style=flat&logo=swift&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
 [![Android](https://img.shields.io/badge/-AndroidStudio-black?style=flat&logo=android&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
+[![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
 [![SpringBoot](https://img.shields.io/badge/-Springboot-brigthgreen?style=flat&logo=spring&logoColor=white&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
+[![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&logoColor=white&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=gustavozapata&show_icons=true" alt="gustavozapata" />    
