@@ -3,7 +3,7 @@
 I'm a full stack developer from Cali 🇨🇴, living in London 🇬🇧
 
 ### Technologies
-##### Professional & Educational Experience
+##### Professional Experience
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
 [![PHP](https://img.shields.io/badge/-PHP-9cf?style=flat&logo=php&link=https://github.com/gustavozapata)](https://github.com/gustavozapata) 
