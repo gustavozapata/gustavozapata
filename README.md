@@ -11,13 +11,13 @@ I'm a full stack developer from Cali 🇨🇴, living in London 🇬🇧
 [![Redux](https://img.shields.io/badge/-Redux-blueviolet?style=flat&logo=redux&link=https://github.com/gustavozapata)](https://github.com/gustavozapata) 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/gustavozapata)](https://github.com/gustavozapata) 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-brigthgreen?style=flat&logo=mongodb&logoColor=white&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
+[![Swift](https://img.shields.io/badge/-Swift-black?style=flat&logo=swift&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
 [![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat&logo=jquery&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/gustavozapata)](https://github.com/gustavozapata) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/gustavozapata)](https://github.com/gustavozapata) 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
 
 ##### Personal Experience
-[![Swift](https://img.shields.io/badge/-Swift-black?style=flat&logo=swift&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
 [![Android](https://img.shields.io/badge/-AndroidStudio-black?style=flat&logo=android&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
 [![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
 [![SpringBoot](https://img.shields.io/badge/-Springboot-brigthgreen?style=flat&logo=spring&logoColor=white&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
