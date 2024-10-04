@@ -1,9 +1,9 @@
 ## Hi, I'm Gustavo Zapata 👨🏻‍💻
 
-I'm a full stack developer from Cali 🇨🇴, living in London 🇬🇧
+Senior full-stack engineer from Cali 🇨🇴, living in London 🇬🇧
 
 ### Technologies
-##### Professional Experience
+[![Go](https://img.shields.io/badge/-Go-blue?style=flat&logo=go&logoColor=white&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
 [![PHP](https://img.shields.io/badge/-PHP-9cf?style=flat&logo=php&link=https://github.com/gustavozapata)](https://github.com/gustavozapata) 
@@ -16,18 +16,11 @@ I'm a full stack developer from Cali 🇨🇴, living in London 🇬🇧
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/gustavozapata)](https://github.com/gustavozapata) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/gustavozapata)](https://github.com/gustavozapata) 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
-
-##### Personal Experience
 [![Android](https://img.shields.io/badge/-AndroidStudio-black?style=flat&logo=android&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
 [![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
 [![SpringBoot](https://img.shields.io/badge/-Springboot-brigthgreen?style=flat&logo=spring&logoColor=white&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
 [![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&logoColor=white&link=https://github.com/gustavozapata)](https://github.com/gustavozapata)
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=gustavozapata&show_icons=true" alt="gustavozapata" />    
-
-### Personal Website
-https://gustavozapata.me/
 
 <br/>
 <a href="https://www.linkedin.com/in/gustavo-zapata/">
@@ -39,18 +32,4 @@ https://gustavozapata.me/
 <a href="https://www.hackerrank.com/tavordie">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-
-<!--
-**gustavozapata/gustavozapata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://gustavozapata.com/
